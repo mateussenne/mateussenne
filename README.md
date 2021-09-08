@@ -12,7 +12,7 @@
 
 
 ### What's up 👋
-- 👨‍💻 Back End developer at Matilha
+- 👨‍💻 Back End developer at Repassa
 - 💎 Ruby on Rails lover
 - 🎮 Game Development enthusiast
 - 📱 Flutter and React Student
