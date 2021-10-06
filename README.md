@@ -3,8 +3,8 @@
 
 <div>
     <a href="https://github.com/mateussenne"> 
-        <img height="175rem" src="https://github-readme-stats.vercel.app/api?username=mateussenne&show_icons=true">
-        <img height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussenne&layout=compact">
+        <img height="175rem" src="https://github-readme-stats.vercel.app/api?username=mateussenne&show_icons=true&theme=radical">
+        <img height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussenne&layout=compact&theme=radical">
     </a>
 </div>
 <br/>
@@ -12,11 +12,11 @@
 
 
 ### What's up 👋
-- 👨‍💻 Back End developer at Repassa
-- 💎 Ruby on Rails lover
-- 🎮 Game Development enthusiast
-- 📱 Flutter and React Student
-- 😄 Pronouns: He/Him
+- 👨‍💻  Back End developer at Repassa
+- 💎  Ruby on Rails lover
+- 🎮  Game Development enthusiast
+- 📱  Flutter and React Student
+- 😄  Pronouns: He/Him
 
 <!--## Languages 
 <i class="devicon-ruby-plain-wordmark colored"></i>
