@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
 ### What's up 👋
-- 👨‍💻  Back End developer at BiggerPicture
+- 👨‍💻  Back End developer @BiggerPicture working with tRPC / Typescript
 - 💎  Ruby on Rails lover
 - 🎮  Game Dev enthusiast
 - 📱  Flutter and React Student
