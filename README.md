@@ -4,7 +4,6 @@
 - 👨‍💻  Back End developer @BiggerPicture working with tRPC / Typescript
 - 💎  Ruby on Rails lover
 - 🎮  Game Dev enthusiast
-- 📱  Flutter and React Student
 - 😄  Pronouns: He/Him
 
 <!--## Languages 
