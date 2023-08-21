@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
-### What's up 👋
+### Howdy! 👋
 - 👨‍💻  Backend developer @BiggerPicture working with tRPC / Typescript
 - 💻  Specializing in NodeJS and Prisma
 - 🎮  Hobby: Game Dev enthusiast
