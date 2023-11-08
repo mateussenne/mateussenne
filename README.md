@@ -1,7 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
 ### Howdy! 👋
-- 👨‍💻  Backend developer @BiggerPicture working with tRPC / Typescript
+- 👨‍💻  Backend Engineer
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4yuobNAPXkfz7FzcCLaCUFVPUIUu_YGwqOUK8iJK7AKcU7OPtgCk6PKhRpJIbsR4pF4Q&usqp=CAU" width="17px" height="14px"> Passionate about Ruby on Rails
 - 💻  Specializing in NodeJS and Prisma
 - 🎮  Hobby: Game Dev enthusiast
 - 😄  Pronouns: He/Him
